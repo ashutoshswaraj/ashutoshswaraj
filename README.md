@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Swaraj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
+<img align="right" alt="Coding" width="1000" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshswaraj&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshswaraj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshswaraj" alt="ashutoshswaraj" /></a> </p>
