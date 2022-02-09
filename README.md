@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Swaraj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="1000" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
+<!-- https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+m+a+Full+Stack+Web+Developer;welcome+to+my+Git-hub+profile -->
+<h3 align="center">I am a Full-stack web developer and I love programming and technology💻. I thrive on challenges and constantly set goals🎯 for myself, so I have something to strive towards. I’m always looking for an opportunity to learn something new and I’m currently learning🌱 React. I’m currently working on something cool😉. Other than the tech I love to read novels📖, do painting🖌️, listen to music🎵, and explore nature🌴 outdoors.</h3>
+<img align="right" alt="Coding" width="1000" height="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshswaraj&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshswaraj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshswaraj" alt="ashutoshswaraj" /></a> </p>
@@ -15,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-swaraj-16001b139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-swaraj-16001b139/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashutosh-swaraj-16001b139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-swaraj-16001b139/" height="30" width="40" /></a>
 <a href="https://medium.com/saashutosh39.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="saashutosh39.medium.com" height="30" width="40" /></a>
 </p>
 
